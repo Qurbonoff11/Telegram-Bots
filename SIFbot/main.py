@@ -1,3 +1,5 @@
+# @Qurbonoff_11 tomonidan yozilgan
+
 import os
 import logging
 import asyncio
